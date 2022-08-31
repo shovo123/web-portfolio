@@ -1,0 +1,27 @@
+body{
+    font-family: 'Font Name', serif;
+}
+h1{
+    font-size: 60px;
+}
+.name-highlight{
+    color: rgb(0, 255, 38);
+}
+.Color{
+    color: darkgoldenrod;
+}
+.Tut{
+    color: rgb(255, 0, 247);
+}
+.Tut1{
+    color: aqua;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 90%;
+}
