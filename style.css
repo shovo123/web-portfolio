@@ -64,6 +64,12 @@ section{
     color: darkcyan;
 }
 .single-experience{
-    box-shadow: 10px 10px 40px cyan;
-    border-radius: 5px;
+    box-shadow: 10px 10px 40px seagreen;
+    border-radius: 10px;
+    height: 55%;
+}
+#full-stack{
+    border-left: 7px salmon;
+    border-image: linear-gradient(180deg, lightsalmon, tomato);
+    border-image-slice: 1;
 }
